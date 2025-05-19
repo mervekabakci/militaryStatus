@@ -1,0 +1,18 @@
+@import "scss/config/index";
+
+#savedData {
+  p {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+}
+#result {
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+}
