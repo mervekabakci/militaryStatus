@@ -8,7 +8,6 @@ let steps = document.querySelectorAll(".step");
 let stepOne = document.querySelector(".stepOne");
 let stepTwo = document.querySelector(".stepTwo");
 
-let saveData = document.getElementById("savedData");
 let resultForm = document.getElementById("result");
 
 let nameSave = document.querySelector(".nameText");
